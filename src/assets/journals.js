@@ -32,5 +32,16 @@ export default [
         desc: "In Amman, Jordan, the Roman Temple of Hercules stands as a majestic testament to ancient times. Amidst the cityscape, it echoes the grandeur of Rome, inviting visitors to delve into history. The weathered columns and timeless aura transport you to an era of myths and legends, making it a captivating destination for history enthusiasts.",
         // done
     },
+        {
+        id: 1,
+        imageLink: "../images/kaaba1.jpg",
+        country: "france",
+        mapsLink: "https://www.google.com/maps/d/viewer?mid=1no4tePW4V_nqYYGRTI59GpHoKq4&hl=en_US&ll=21.42266198971721%2C39.82590803625957&z=16",
+        place: "paris ifel tower",
+        startDate: "5 Jan, 1999",
+        endDate: "21 dec, 1999",
+        desc: " this place is old historical city that holds value in the french empire, this bringd tourists to see this useless ahh thingy paris triangle goofy ahh.",
+        // done
+    },
 
 ]
