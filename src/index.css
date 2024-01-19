@@ -7,6 +7,9 @@
 
     animate: all 1s;
 }
+body{
+    margin-bottom: 300px;
+}
 .navicon{
     fill:rgb(255, 255, 255)
 }
