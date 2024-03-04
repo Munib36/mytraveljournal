@@ -1,13 +1,14 @@
 export default [
     {
         id: 1,
-        imageLink: "../images/kaaba1.jpg",
-        country: "Saudi Arabia",
-        mapsLink: "https://www.google.com/maps/d/viewer?mid=1no4tePW4V_nqYYGRTI59GpHoKq4&hl=en_US&ll=21.42266198971721%2C39.82590803625957&z=16",
-        place: "Kaaba",
+        imageLink: "../images/casa.jpeg",
+        country: "Canada",
+        // mapsLink: "https://www.google.com/maps/d/viewer?mid=1no4tePW4V_nqYYGRTI59GpHoKq4&hl=en_US&ll=21.42266198971721%2C39.82590803625957&z=16",
+        mapsLink: "https://google.com/maps/d/u/0/viewer?mid=1pNWb9t80Id7Di7-G4Jq6R8Top0Y&hl=en_US&ll=43.678731586428455%2C-79.409891&z=16",
+        place: "Casa loma",
         startDate: "5 Jan, 2010",
         endDate: "7 Jan, 2010",
-        desc: "The Kaaba, a revered black cube-like structure, stands tall and majestic, drawing pilgrims from every corner of the globe like a magnet. It serves as the focal point of Islam and a symbol of unity, surrounded by a diverse sea of worshipers. It's important to note that Muslims don't worship the Kaaba itself; it simply serves as a direction for their prayers. This sacred site creates a profound sense of awe for anyone fortunate enough to encounter it.",
+        desc: "Casa Loma, a grandiose Gothic Revival mansion located in Toronto, Canada, is a historic landmark renowned for its architectural splendor and fascinating history.",
         // done
     },
     {
